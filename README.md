@@ -13,9 +13,11 @@ Adder Topology: The arithmetic core utilizes a Ripple Carry Adder structure for 
 
 ## Data Width:
 
-Inputs: 8-bit signed (signed [7:0])
+**Inputs**: 8-bit signed (signed [7:0])
 
-Output: 16-bit signed (signed [15:0]) to preserve precision during multiplication and prevent overflow data loss.
+**Output**: 16-bit signed (signed [15:0]) to preserve precision during multiplication and prevent overflow data loss.
+
+
 
 ## Status Flags: Real-time generation of:
 
@@ -26,6 +28,7 @@ ZF (Zero Flag)
 OF (Overflow Flag - Signed)
 
 NF (Negative Flag)
+
 
 
 ## 🔢 Operations Table

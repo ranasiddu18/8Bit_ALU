@@ -1,7 +1,7 @@
-                                         **8bit_ALU**
+##                                          8bit_ALU                                 
 
 
-**_______________________________________________________________________________________________**
+**____________________________________________________________________________________________________________________________**
 
 Designed and verified a synthesizable 8-bit Signed ALU with opcodes using Verilog HDL, capable of performing 26 distinct operations including arithmetic, bitwise logic, shifting, and comparison. The design features a 16-bit output architecture to preserve precision during multiplication and arithmetic shifts, preventing data loss.
 

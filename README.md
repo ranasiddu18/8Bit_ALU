@@ -1,4 +1,4 @@
-**8bit_ALU**
+                                         **8bit_ALU**
 
 
 **_______________________________________________________________________________________________**
@@ -10,3 +10,6 @@ Designed and verified a synthesizable 8-bit Signed ALU with opcodes using Verilo
 
 
 <img width="1914" height="1197" alt="Screenshot 2026-02-09 033134" src="https://github.com/user-attachments/assets/4ef3b094-0c4c-49d9-96dc-f47fd20cc66b" />
+
+
+<img width="1574" height="976" alt="image" src="https://github.com/user-attachments/assets/716853a8-ab7b-406b-bc90-a9bd50c3b57c" />

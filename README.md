@@ -33,40 +33,44 @@ NF (Negative Flag)
 The ALU operation is controlled by the 5-bit select line input s[4:0].
 
 
-Select (s),Operation Name,Description / Logic
-Arithmetic,,
-00000,Addition,Result = A + B (Ripple Carry)
-00001,Subtraction,Result = A - B
-00010,Multiplication,Result = A * B
-00011,Division,Result = A / B
-00100,Modulo,Result = A % B
-Bitwise Logic,,
-00101,Bitwise AND,A & B
-00110,Bitwise OR,A | B
-00111,Bitwise XOR,A ^ B
-01000,Bitwise XNOR,~(A ^ B)
-01001,Bitwise NOT (A),~A
-01010,Bitwise NAND,~(A & B)
-01011,Bitwise NOR,~(A | B)
-Logical Operations,,
-01100,Logical AND,A && B (Boolean)
-01101,Logical OR,A || B (Boolean)
-01110,Logical NOT (A),!A (Boolean)
-Shift & Rotate,,
-01111,Logical Right Shift,A >> B
-10000,Logical Left Shift,A << B
-10001,Arithmetic Right Shift,A >>> B (Sign preserv.)
-10010,Arithmetic Left Shift,A <<< B
-10011,Rotate Right,"1-bit Rotate ({A[0], A[7:1]})"
-10100,Rotate Left,"1-bit Rotate ({A[6:0], A[7]})"
-Comparison,,
-10101,Equal,A == B
-10110,Not Equal,A != B
-10111,Greater Than,A > B
-11000,Less Than,A < B
-11001,Greater or Equal,A >= B
-11010,Less or Equal,A <= B
-________________________________________________________________________________________________________________________________
+ | Select (`s`) | Operation Name | Description / Logic |
+| :--- | :--- | :--- |
+| **Arithmetic** | | |
+| `00000` | **Addition** | `Result = A + B` (Ripple Carry) |
+| `00001` | **Subtraction** | `Result = A - B` |
+| `00010` | **Multiplication** | `Result = A * B` |
+| `00011` | **Division** | `Result = A / B` |
+| `00100` | **Modulo** | `Result = A % B` |
+| **Bitwise Logic** | | |
+| `00101` | **Bitwise AND** | `A & B` |
+| `00110` | **Bitwise OR** | `A \| B` |
+| `00111` | **Bitwise XOR** | `A ^ B` |
+| `01000` | **Bitwise XNOR** | `~(A ^ B)` |
+| `01001` | **Bitwise NOT (A)** | `~A` |
+| `01010` | **Bitwise NAND** | `~(A & B)` |
+| `01011` | **Bitwise NOR** | `~(A \| B)` |
+| **Logical Operations** | | |
+| `01100` | **Logical AND** | `A && B` (Boolean) |
+| `01101` | **Logical OR** | `A \|\| B` (Boolean) |
+| `01110` | **Logical NOT (A)** | `!A` (Boolean) |
+| **Shift & Rotate** | | |
+| `01111` | **Logical Right Shift** | `A >> B` |
+| `10000` | **Logical Left Shift** | `A << B` |
+| `10001` | **Arithmetic Right Shift**| `A >>> B` (Sign preserv.) |
+| `10010` | **Arithmetic Left Shift** | `A <<< B` |
+| `10011` | **Rotate Right** | 1-bit Rotate (`{A[0], A[7:1]}`) |
+| `10100` | **Rotate Left** | 1-bit Rotate (`{A[6:0], A[7]}`) |
+| **Comparison** | | |
+| `10101` | **Equal** | `A == B` |
+| `10110` | **Not Equal** | `A != B` |
+| `10111` | **Greater Than** | `A > B` |
+| `11000` | **Less Than** | `A < B` |
+| `11001` | **Greater or Equal** | `A >= B` |
+| `11010` | **Less or Equal** | `A <= B` |
+
+
+_________________________________________________________________
+
 
 
 ## BLOCK Diagram

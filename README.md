@@ -4,7 +4,7 @@
 **____________________________________________________________________________________________________________________________**
 
 
-📌## Project Overview
+📌  **Project Overview**
 
  This project is a fully synthesizable **8-bit Signed ALU designed** in Verilog HDL. It is engineered to handle 2's complement arithmetic and logic operations for an 8-bit processor architecture. The design supports **26 distinct operations**, ranging from basic arithmetic and bitwise logic to complex shifting and comparison functions.
 

@@ -1,9 +1,13 @@
-##                                          8bit_ALU with Ripple Carry Adder                               
+##                                      8-Bit Signed ALU (Arithmetic Logic Unit)                             
 
 
 **____________________________________________________________________________________________________________________________**
 
-Designed and verified a synthesizable 8-bit Signed ALU with opcodes using Verilog HDL, capable of performing 26 distinct operations including arithmetic, bitwise logic, shifting, and comparison. The design features a 16-bit output architecture to preserve precision during multiplication and arithmetic shifts, preventing data loss.
+
+## Project Overview
+
+## _____________________________________________________________________________________________________________________________
+ This project is a fully synthesizable **8-bit Signed ALU designed** in Verilog HDL. It is engineered to handle 2's complement arithmetic and logic operations for an 8-bit processor architecture. The design supports **26 distinct operations**, ranging from basic arithmetic and bitwise logic to complex shifting and comparison functions.
 
 ________________________________________________________________________________________________________________________________
 

@@ -7,6 +7,27 @@ ________________________________________________________________________________
  This project is a fully synthesizable **8-bit Signed ALU designed** in Verilog HDL. It is engineered to handle 2's complement arithmetic and logic operations for an 8-bit processor architecture. The design supports **26 distinct operations**, ranging from basic arithmetic and bitwise logic to complex shifting and comparison functions.
 
 
+
+ ## ⚙️ Architecture & Features
+Adder Topology: The arithmetic core utilizes a Ripple Carry Adder structure for addition and subtraction operations.
+
+## Data Width:
+
+Inputs: 8-bit signed (signed [7:0])
+
+Output: 16-bit signed (signed [15:0]) to preserve precision during multiplication and prevent overflow data loss.
+
+## Status Flags: Real-time generation of:
+
+CF (Carry Flag)
+
+ZF (Zero Flag)
+
+OF (Overflow Flag - Signed)
+
+NF (Negative Flag)
+
+
  
 
 ________________________________________________________________________________________________________________________________

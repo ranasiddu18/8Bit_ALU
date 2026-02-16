@@ -78,14 +78,16 @@ _________________________________________________________________
 ## Elaborated design
 
 
- <img width="1915" height="1107" alt="Screenshot 2026-02-09 034034" src="https://github.com/user-attachments/assets/e1d57378-94fc-419b-b52e-bcd3f4c9bf06" />
+ <img width="1915" height="1107" alt="Screenshot 2026-02-09 034034" src="https://github.com/user-attachments/assets/f7a8e387-877e-489c-a4a9-2330228ce16e" />
+
 
 
 
 ## Simulation 
 
 
- <img width="1914" height="1132" alt="Screenshot 2026-02-09 033134" src="https://github.com/user-attachments/assets/88ac53a3-2f4d-40e1-b75d-12b6cc0bd1cd" />
+ <img width="1914" height="1132" alt="Screenshot 2026-02-09 033134" src="https://github.com/user-attachments/assets/95b7d840-1aff-40f3-967b-df90cceac0d9" />
+
 
 
 

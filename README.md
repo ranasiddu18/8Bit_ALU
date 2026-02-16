@@ -78,13 +78,15 @@ _________________________________________________________________
 ## Elaborated design
 
 
-<img width="1914" height="1197" alt="Screenshot 2026-02-09 034034" src="https://github.com/user-attachments/assets/963172ae-db38-46a4-a660-ee2d915c24fd" />
+ <img width="1915" height="1107" alt="Screenshot 2026-02-09 034034" src="https://github.com/user-attachments/assets/e1d57378-94fc-419b-b52e-bcd3f4c9bf06" />
+
 
 
 ## Simulation 
 
 
-<img width="1914" height="1197" alt="Screenshot 2026-02-09 033134" src="https://github.com/user-attachments/assets/4ef3b094-0c4c-49d9-96dc-f47fd20cc66b" />
+ <img width="1914" height="1132" alt="Screenshot 2026-02-09 033134" src="https://github.com/user-attachments/assets/88ac53a3-2f4d-40e1-b75d-12b6cc0bd1cd" />
+
 
 
 ## Tcl Console

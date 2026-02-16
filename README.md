@@ -75,7 +75,7 @@ _________________________________________________________________
 
 
 
-## Netlist
+## Elaborated design
 
 
 <img width="1914" height="1197" alt="Screenshot 2026-02-09 034034" src="https://github.com/user-attachments/assets/963172ae-db38-46a4-a660-ee2d915c24fd" />
